@@ -1,3 +1,3 @@
 ## GIT WORKFLOW
 
-this repository is a part of cstusparkcamp 2026
+This repository is a part of **CSTU-Sparkcamp 2026
